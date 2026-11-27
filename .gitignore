@@ -1,0 +1,16 @@
+# signing keys: made by the first build, kept private and outside the repository
+keys/
+
+# build output
+build/
+out/
+*.jar
+*.iso
+__pycache__/
+*.class
+
+# music, covers and disc folders never belong in the repository
+*.wv
+*.wvc
+WVPLAYER-*/
+WVBENCH*/
